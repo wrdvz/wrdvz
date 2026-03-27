@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I’m Edward.
 
-<!--
-**wrdvz/wrdvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build data-driven objects to understand complex systems  
+— climate, water, and systemic risk.
 
-Here are some ideas to get you started:
+### Selected work
+- Groundwater trends in France (2005–2025)
+- Traceability systems for ESG data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Approach
+Bridging data, narrative, and visual structure  
+to make complexity readable.
+
+### Contact
+LinkedIn / email
