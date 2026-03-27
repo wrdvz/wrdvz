@@ -12,5 +12,4 @@ Bridging data, narrative, and visual structure
 to make complexity readable.
 
 ### Contact
-[Linkedin](https://www.linkedin.com/in/edwardvizard/)
-edward.vizard@icloud.com
+[Linkedin](https://www.linkedin.com/in/edwardvizard/) | edward.vizard@icloud.com
