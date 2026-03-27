@@ -5,7 +5,7 @@ I build data-driven objects to make complex systems readable
 
 ### Selected work
 - [Groundwater trends in France (2005–2025)](https://github.com/wrdvz/parallaxe-groundwater-france-trends)
-- Traceability systems for ESG data
+- Traceability systems for ESG data (in progress)
 
 ### Approach
 Bridging data, narrative, and visual structure  
